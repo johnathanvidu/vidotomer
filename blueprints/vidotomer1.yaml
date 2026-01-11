@@ -7,7 +7,7 @@ labels:
 metadata:
   blueprint-labels:
     - key: provider
-      value: Vido Chinsky
+      value: Vido Chinsky 2
     - key: Category
       value: LLMaaS
   display-name: Vido
