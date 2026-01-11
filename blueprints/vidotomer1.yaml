@@ -7,10 +7,10 @@ labels:
 metadata:
   blueprint-labels:
     - key: provider
-      value: RHEL 10
+      value: Vido Chinsky
     - key: Category
       value: LLMaaS
-  display-name: vLLM RHEL 10
+  display-name: Vido
   icon: vLLM
 spec_version: 2
 description: RHEL 10-based pipeline for deploying vLLM for LLMaaS.
